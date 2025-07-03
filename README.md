@@ -28,7 +28,7 @@ Before building the dashboard, the following preprocessing steps were performed:
 - **Geographical Trends**: Map visualizations of workforce distribution
 
 ## 📷 Dashboard
-![Dashboard Preview](dashboard-preview.png)
+![Image](https://github.com/user-attachments/assets/41157365-f623-42f3-b24c-f9491a679b9d)
 
 ## 📌 Conclusion
 
